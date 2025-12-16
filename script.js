@@ -1,5 +1,5 @@
 function checkCode() {
-  const correctCode = "1234"; // CHANGE THIS
+  const correctCode = "haroeverybody"; // CHANGE THIS
   const userCode = document.getElementById("codeInput").value;
 
   if (userCode === correctCode) {
